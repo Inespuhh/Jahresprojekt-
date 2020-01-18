@@ -24,6 +24,7 @@
 # Jetzt python und den Skriptnamen dahinter eingeben und Enter drücken.
 # Falls in dem Code der Befehl 'print()' existiert wird das definierte im print Befehl im Terminal ausgegeben. 
 # Falls es Fehlermeldungen gibt, werden diese auch im Terminal angezeigt.
+# Wenn das bearbeitet Skript gesichert werden soll wird es heruntergeladen und lokal auf dem Laptop gespeichert.
 # Mit dem Befehl 'ls' wird angezeigt welche File in dem Developer liegt. 
 # Mit dem Befehl 'cd ./logs' wird das Verzeichnis logs angezeigt. 
 # Im Verzeichnis logs kann man mit dem Befehl 'ls' das erstellte Event Output angezeigt bekommen. Dies sieht zum Beispiel so aus: events.out.tfevents.1574945283.10dfde9e70aa

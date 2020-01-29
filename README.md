@@ -1,10 +1,10 @@
 # Jahresprojekt-
-# Zum starten der Skripte werden Kitematic (Alpha), Docker Quickstart Terminal, Oracle VM VirtualBox und eine Entwicklungsumgebung wie zum Beispiel Visual Studio Code benötigt.
-# Zum öffnen der Skripte wird Visual Studio Code geöffnet
-# Im Terminal (CMD) muss der Pfad angegben werden, wo die Skripte liegen. Zum Beispiel bei mir C:\Users\Inija\Documents\Alle Ordner\I_Reutlingen\Jahresprojekt\Iris>
-# Hinter diesen Pfad wird nun 'docker ps' eingegeben und Enter gedrückt.
-# (docker ps kann man sich die laufenden Container anzeigen lassen.)
-# Wenn nichts angezeigt wird 'docker-machine stop default' eingeben und Enter drücken.
+Zum starten der Skripte werden Kitematic (Alpha), Docker Quickstart Terminal, Oracle VM VirtualBox und eine Entwicklungsumgebung wie zum Beispiel Visual Studio Code benötigt.
+Zum öffnen der Skripte wird Visual Studio Code geöffnet
+Im Terminal (CMD) muss der Pfad angegben werden, wo die Skripte liegen. Zum Beispiel bei mir C:\Users\Inija\Documents\Alle Ordner\I_Reutlingen\Jahresprojekt\Iris>
+Hinter diesen Pfad wird nun 'docker ps' eingegeben und Enter gedrückt.
+(docker ps kann man sich die laufenden Container anzeigen lassen.)
+Wenn nichts angezeigt wird 'docker-machine stop default' eingeben und Enter drücken.
 # (Die VM wird gestoppt.)
 # Danach 'docker-machine start default' angeben und Enter drücken. 
 # (Die VM wird gestartet.)

@@ -1,7 +1,7 @@
 # Jahresprojekt-
-## Was zum starten des Codes benötigt wird:
+## Was zum ausführen des Codes in Python benötigt wird:
 Zum starten der Skripte werden Kitematic (Alpha), Docker Quickstart Terminal, Oracle VM VirtualBox und eine Entwicklungsumgebung wie zum Beispiel Visual Studio Code benötigt.
-## Anleitung zur Benutzung von Python:
+## Anleitung zur Benutzung von Python mit Docker:
 Zum öffnen der Skripte wird Visual Studio Code geöffnet
 Im Terminal (CMD) muss der Pfad angegben werden, wo die Skripte liegen. Zum Beispiel bei mir C:\Users\Inija\Documents\Alle Ordner\I_Reutlingen\Jahresprojekt\Iris>
 Hinter diesen Pfad wird nun 'docker ps' eingegeben und Enter gedrückt.
@@ -20,7 +20,7 @@ Jetzt erneut 'docker ps' eingeben und Enter drücken.
 Nun ist man in TensorFlow dirn. Jetzt auf das Symbol 'Remote Explorer' in der Leiste klicken.
 Den gewünschten Container auswählen und auf 'Connect to Container' klicken.
 Es öffnet sich ein neues Fenster, da man jetzt im Container sich befindet.
-## Anleitung zur Programmierung in Python: 
+## Anleitung zur Programmierung in Python mit Docker: 
 In dem Container befinden sich die Dateien wie Python Skripte, Excel-Files und CSV-Files die sich im Ordner Iris befinden.
 Nun kann der Code bearbeitet werden. 
 Zum ausführen des Codes muss das Terminal geöffnet werden mit der Tastenkomination 'Strg + j'.
@@ -28,7 +28,7 @@ Jetzt python und den Skriptnamen dahinter eingeben und Enter drücken.
 Falls in dem Code der Befehl 'print()' existiert wird das definierte im print Befehl im Terminal ausgegeben. 
 Falls es Fehlermeldungen gibt, werden diese auch im Terminal angezeigt.
 Wenn das bearbeitet Skript gesichert werden soll wird es heruntergeladen und lokal auf dem Laptop gespeichert.
-## Anleitung zur Visualisierung von Grafiken:
+## Anleitung zur Visualisierung von Grafiken mit Docker:
 Mit dem Befehl 'ls' wird angezeigt welche File in dem Developer liegt. 
 Mit dem Befehl 'cd ./logs' wird das Verzeichnis logs angezeigt. 
 Im Verzeichnis logs kann man mit dem Befehl 'ls' das erstellte Event Output angezeigt bekommen. Dies sieht zum Beispiel so aus: events.out.tfevents.1574945283.10dfde9e70aa
